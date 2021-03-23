@@ -44,6 +44,7 @@ export default function ListeDossiers({utilisateur, etatDossiers}) {
             }
           </>
         :
+        // Sinon, on affiche message
           <div className="DossierVide">Votre liste de dossiers est vide
             <br />
             <span>;-(</span>
