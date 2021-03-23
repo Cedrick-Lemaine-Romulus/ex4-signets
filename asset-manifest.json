@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ex4-signets/static/css/main.67a0552f.chunk.css",
+    "main.js": "/ex4-signets/static/js/main.eeb05da1.chunk.js",
+    "main.js.map": "/ex4-signets/static/js/main.eeb05da1.chunk.js.map",
+    "runtime-main.js": "/ex4-signets/static/js/runtime-main.a47c0f11.js",
+    "runtime-main.js.map": "/ex4-signets/static/js/runtime-main.a47c0f11.js.map",
+    "static/css/2.b39b49d3.chunk.css": "/ex4-signets/static/css/2.b39b49d3.chunk.css",
+    "static/js/2.86c8c1e9.chunk.js": "/ex4-signets/static/js/2.86c8c1e9.chunk.js",
+    "static/js/2.86c8c1e9.chunk.js.map": "/ex4-signets/static/js/2.86c8c1e9.chunk.js.map",
+    "index.html": "/ex4-signets/index.html",
+    "static/css/2.b39b49d3.chunk.css.map": "/ex4-signets/static/css/2.b39b49d3.chunk.css.map",
+    "static/css/main.67a0552f.chunk.css.map": "/ex4-signets/static/css/main.67a0552f.chunk.css.map",
+    "static/js/2.86c8c1e9.chunk.js.LICENSE.txt": "/ex4-signets/static/js/2.86c8c1e9.chunk.js.LICENSE.txt",
+    "static/media/couverture.2dc9ece9.webp": "/ex4-signets/static/media/couverture.2dc9ece9.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a47c0f11.js",
+    "static/css/2.b39b49d3.chunk.css",
+    "static/js/2.86c8c1e9.chunk.js",
+    "static/css/main.67a0552f.chunk.css",
+    "static/js/main.eeb05da1.chunk.js"
+  ]
+}
