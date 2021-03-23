@@ -5,3 +5,20 @@
   justify-content: center;
   flex-wrap: wrap;
 }
+
+.DossierVide {
+  display: block;
+  height: 50vh;
+  width: 20vw;
+  color: white;
+  font-size: 1.6em;
+  background-color: cadetblue;
+  padding: 20px;
+
+  span {
+    font-size: 5em;
+    padding-top: 0.3em;
+    text-align: center;
+    display: block;
+  }
+}
